@@ -92,7 +92,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Website\EngageWeb\EngageWeb.csproj">
+    <ProjectReference Include="..\EngageWeb\EngageWeb.csproj">
       <Project>{5F0194F5-3A07-42E0-85FB-E63947868F46}</Project>
       <Name>EngageWeb</Name>
     </ProjectReference>
